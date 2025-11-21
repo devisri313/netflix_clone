@@ -12,6 +12,7 @@ const Nav = () => {
     window.location.reload();
   };
 
+  
   return (
     <>
       <div className="relative bg-black text-white px-4 sm:px-10 py-5 sm:py-8">
